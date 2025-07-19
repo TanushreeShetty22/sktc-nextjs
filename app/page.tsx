@@ -10,7 +10,7 @@ import {
   Minus,
   Trash2,
   MessageCircle,
-  Star,
+
   Users,
   Award,
   Truck,
